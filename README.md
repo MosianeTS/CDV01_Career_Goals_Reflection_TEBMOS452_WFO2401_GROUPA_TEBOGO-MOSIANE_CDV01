@@ -1,42 +1,46 @@
 
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+# Career Goals Reflection
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Tebogo Mosiane
+- **Date:** 03-03-2024
+- **Current Role/Position:** CodeSpace Student
+- **Field of Interest:** Software Development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+   My current skills are:
+   - HTML
+   - Vanilla CSS
+   - Tailwind CSS
+   - JavaScript
+   Skills I need to improve or develop are:
+   - JavaScript
+   - React
+   - API development
+   - Bootstrap
+    
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+      Key interests related to my career.
+       - 
+      
+      Values that are important to me in a work environment are:
+      - Honesty
+      - Integrity
+      - Professionalism
+        
+      
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
+     Industries or roles I have researched.
+      -  
     - Note any particular areas that piqued your interest.
 2. **Alignment with Personal Profile**:
     
@@ -47,20 +51,33 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+     List your specific, measurable, achievable, relevant, and time-bound goals.
+     - Successfully complete the CodeSpace software development bootcamp in the next 4 months. This is to enable me to enter the tech industry and look for employment as a junior software developer.
+     - Obtain a junior software developer role 3 months after graduating from CodeSpace. I would like to obtain a position where I can make use of my newly acquired skills to kickstart my career.
+     - Obtain the AWS Cloud practitioner certificate 6 months after landing my junior developer role. 
+     Explain the rationale behind each goal.
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
+     Outline your long-term career aspirations.
+     - Obtain a senior software developer role 3 years after landing a junior role.
     - Describe how these align with your interests and skills.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
+     Detail specific actions or steps needed to achieve each short-term goal
+      Completion of CodeSpace development bootcamp
+       - Go through the coursework and ensure I understand the content. In the event where I have any misunderstanding, I will ask my coach or do research using tools like YouTube or ChatGPT.
+       - Complete all coding challenges to the best of my ability and submit them on time.
+       - Complete all portfolio piece projects on time.
+     Junior Software Developer Job
+       - Search for and apply for jobs on popular job search sites like Pnet, Indeed and others.
+       - Ensure my LinkedIn profile is up to date.
+       - Connect and reach out to other people
+
     - Include any resources or support required.
-2. **Preparation for Long-term Goals**:
+3. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
     - Consider additional skills, experiences, or qualifications needed.
