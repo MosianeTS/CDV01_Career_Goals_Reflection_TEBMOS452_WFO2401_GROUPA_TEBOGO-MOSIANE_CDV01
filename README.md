@@ -81,7 +81,7 @@
 2. **Long-term Goals** (3-5 years and beyond):    
    
      -  Obtain the AWS Developer Associate certification by end of July 2027. This goal aligns with my value of continuous learning and improvement and will also help me to improve my marketability. In addition, this will help me to establish my focus in cloud computing.
-     -  Obtain a senior software developer role by end of November 2028. This role will help me further develop my technical skills as well as my leadership skills and prepare me for a management role.
+     -  Obtain a senior software developer role by end of November 2029. This role will help me further develop my technical skills as well as my leadership skills and prepare me for a management role.
      -  Obtain the AWS DevOps Engineer Professional certification. This will help me to solidify my specialisation in AWS cloud computing. This goal aligns with my values of continuous learning and career growth.
     
 
@@ -89,20 +89,63 @@
 
 1. **Steps to Achieve Short-term Goals**:    
      
-      Completion of CodeSpace development bootcamp:
-       - Go through the coursework and ensure I understand the content. In the event where I have any misunderstanding, I will ask my coach or do research using tools like YouTube or ChatGPT.
-       - Complete all coding challenges to the best of my ability and submit them on time.
-       - Complete all portfolio piece projects on time.
-      Junior Software Developer Job
-       - Search for and apply for jobs on popular job search sites like Pnet, Indeed and others.
-       - Ensure my LinkedIn profile is up to date.
-       - Connect and reach out to other people
-
-    - Include any resources or support required.
-2. **Preparation for Long-term Goals**:
+     (a) Completion of CodeSpace development bootcamp:
+      - Go through the coursework and ensure I understand the content. In the event where I have any misunderstanding, I will ask my coach or search for answers using tools like YouTube or ChatGPT.
+      - Complete all coding challenges ensuring they meet all the stipulated criteria and submit them on time.
+      - Complete all portfolio piece projects ensuring they meet all the stipulated criteria and submit them on time.
+      - Continuously work on my technical skills by solving coding challenges online and practising best coding practices.
+      - Continuously work on my CodeSpace qualities and improve on qualities such as teamwork and autodidacticism. 
+      - Collaborate and interact with other fellow learners to help bridge any misunderstandings.
+        
+      (b) Junior Software Developer Job
+      - Update my portfolio profile site to showcase my skills and projects to potential employers.
+      - Update my GitHub profile and ensure that it has all the necessary information such as my contact details, skills and pinned repositories.
+      - Create a professional and up to date CV.
+      - Search for and apply for jobs on popular job search sites like Pnet, Indeed and others.
+      - Create a professional and up to date Linkedin profile.
+      - Connect with other developers on Linkedin and other online platforms to extend my network.
+      - Register on recruitment agency websites and subscribe to job alerts.
+        
+      (c) AWS Cloud Practitioner Certificate
+      - Self-learn about the cloud from resources such as YouTube and ChatGPT prior to the examination.
+      - Prepare for the examination thoroughly by going through practice questions.
+      - Connect with individuals who have written and passed the exam to ask for guidance in preparing and passing the examination.
+      - Register for a course on Udemy that will help me prepare for the exam.
+            
+      (d) Mid-level Developer Job
+      - Ensure that I excel in my junior role to improve my chances of landing a mid-level developer role.
+      - Expand my skillset by learning back-end development technologies and frameworks.
+      - Master JavaScript by registering for an online course in advanced JavaScript.
+      - Learn testing tools and methodologies.
+      - Update my portfolio profile site to showcase my skills, projects and experience to potential employers.
+      - Update my CV to showcase my experience and highlight my achievements in my role as a junior front end developer.
+      - Update my GitHub profile and ensure that it has all the necessary information such as my contact details, skills and pinned repositories.
+      - Search for and apply for jobs on popular job search sites like Pnet, Indeed and others.
+      - Create a professional and up to date Linkedin profile.
+      - Connect with other professionals on Linkedin and other social media platforms to extend my network.
+      - Register on recruitment agency websites and subscribe to job alerts.
+      - Stay up to date with the latest technologies and trends.
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+2. **Preparation for Long-term Goals**:
+   
+    (a) AWS Developer Associate certification
+    - Obtain the AWS Cloud Practitioner certificate and pass the examination well.
+    - Excel in my junior development role and hone my technical skills.
+    - Register for a course that will help me prepare for the examination.
+    - Actively look for a development role that will help me get the necessary skills and experience of working with AWS infrastrucrure and technologies.
+  
+    (b) Senior software developer role
+    - Obtain the AWS Developer certificate and pass the examination well.
+    - Ensure that I go above and beyond in my mid-level development role and meet and exceed my performance goals and objectives.
+    - Continuously learn and adapt to changing technological trends.
+    - Continuously hone my AWS skills and knowledge.
+    - Improve and work on my soft skills especially my leadership skills.
+
+    (c) AWS DevOps Professional certification
+    - Obtain the AWS Developer certificate and pass the examination well.
+    - Excel in my senior development role and hone my AWS technical skills.
+    - Register for a course that will help me prepare for the examination.  
+    
 
 ### Part 5: Reflection on Challenges and Opportunities
 
