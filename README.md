@@ -164,6 +164,7 @@
     
    Potential obstacles or challenges in reaching my goals:
    - Loadshedding may affect my CodeSpace studies negatively as all learning takes place online. I can make use of a UPS and or mobile data to ensure a continuous online presence.
+   - Learning a back-end framework by myself may be challenging. I can connect with an individual who is knowledgeable and experienced on the framework and ask for support and help in my self-learning journey.
    - Information overload and burnout may negatively affect my CodeSpace grades. I can make use of effective time management, organisation of work and enough rest to avoid burnout.
    - The South African job marketplace has proven to be a tough place to obtain employment with high levels of
       unemployment and an economy that has not been performing well for quite some time. This may be a huge obstacle in obtaining a junior role. I can widen my job search and look for international
