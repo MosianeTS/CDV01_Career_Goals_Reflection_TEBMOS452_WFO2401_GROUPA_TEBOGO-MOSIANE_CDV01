@@ -32,6 +32,7 @@
       Key interests related to my career.<br>
       - Web Development
       - Mobile App Development
+      - DevOps Engineering
       - Machine Learning
       - Cloud Computing
       
@@ -70,35 +71,35 @@
 
 ### Part 3: SMART Career Goals
 
-1. **Short-term Goals** (Next 1-2 years):
+1. **Short-term Goals** (Next 1-2 years):    
+     
+     - Successfully complete the CodeSpace software development bootcamp by getting more than 80% in all three programs by June 2024. This is to enable me to break into the tech industry and acquire a junior software developer role.
+     - Obtain a junior front-end developer role by end of September 2024. I would like to obtain a position where I can make use of my newly acquired skills to kickstart my development career.
+     - Obtain the AWS Cloud Practitioner certificate by end of June 2025. This is to help me attain knowledge about how the cloud works and to kickstart my specialisation in cloud computing.
+     - Obtain a mid-level developer position by end of July 2026. Having gained experience as a junior developer, this role will allow me to take on more responsibility and to specialize in a specific programming language or specific technology.
+       
+2. **Long-term Goals** (3-5 years and beyond):    
+   
+     -  Obtain the AWS Developer Associate certification by end of July 2027. This goal aligns with my value of continuous learning and improvement and will also help me to improve my marketability. In addition, this will help me to establish my focus in cloud computing.
+     -  Obtain a senior software developer role by end of November 2028. This role will help me further develop my technical skills as well as my leadership skills and prepare me for a management role.
+     -  Obtain the AWS DevOps Engineer Professional certification. This will help me to solidify my specialisation in AWS cloud computing. This goal aligns with my values of continuous learning and career growth.
     
-     List your specific, measurable, achievable, relevant, and time-bound goals.
-     - Successfully complete the CodeSpace software development bootcamp by getting more than 80% in all three programs in the next 4 months. This is to enable me to break into the tech industry and acquire a junior software developer role.
-     - Obtain a junior front-end developer role 3 months after graduating from CodeSpace. I would like to obtain a position where I can make use of my newly acquired skills to kickstart my career.
-     - Obtain the AWS Cloud practitioner certificate 6 months after landing my junior developer role. This is to help me attain knowledge about how the cloud works and to further improve my skills and marketability.
-     Explain the rationale behind each goal.
-2. **Long-term Goals** (3-5 years and beyond):
-    
-     Outline your long-term career aspirations.
-     - Obtain a senior software developer role 3 years after landing a junior role.
-    - Describe how these align with your interests and skills.
 
 ### Part 4: Action Plan
 
-1. **Steps to Achieve Short-term Goals**:
-    
-     Detail specific actions or steps needed to achieve each short-term goal
-      Completion of CodeSpace development bootcamp
+1. **Steps to Achieve Short-term Goals**:    
+     
+      Completion of CodeSpace development bootcamp:
        - Go through the coursework and ensure I understand the content. In the event where I have any misunderstanding, I will ask my coach or do research using tools like YouTube or ChatGPT.
        - Complete all coding challenges to the best of my ability and submit them on time.
        - Complete all portfolio piece projects on time.
-     Junior Software Developer Job
+      Junior Software Developer Job
        - Search for and apply for jobs on popular job search sites like Pnet, Indeed and others.
        - Ensure my LinkedIn profile is up to date.
        - Connect and reach out to other people
 
     - Include any resources or support required.
-3. **Preparation for Long-term Goals**:
+2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
     - Consider additional skills, experiences, or qualifications needed.
