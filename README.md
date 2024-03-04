@@ -20,12 +20,15 @@
    - GitHub<br><br>
    Skills I need to improve or develop are:<br>
    - JavaScript
+   - GitHub
    - React.js
    - Restful API development
    - Bootstrap
    - Next.js
    - Node.js
    - Agile software development
+   - Back-end development
+   - Unit testing
     
 2. **Interests and Values**:
     
@@ -60,12 +63,14 @@
      - Back-end developer
      - Full-stack developer
      - Software engineer
+     - DevOps engineer
     
 2. **Alignment with Personal Profile**:
     
       As an aspiring software developer, these roles and industries are perfectly aligned with my skills and knowledge and can provide a stepping stone to establishing a solid career in the tech industry.
-      Some of the roles researched promise to be in alignment with my values such as innovation and a good work-life balance. It is imperative for me to join an organisation that appreciates and promotes
-      some or all of these values. I believe these values are critical in my continous development as a software developer and to succeed and establish a growing and impactful career.
+      My skills in HTML, CSS and JavaScript put me in a great position to succeed in a junior front end developer role. 
+      Some of the roles explored promise to be in alignment with my values such as innovation and a good work-life balance. It is imperative for me to join an organisation that appreciates and promotes
+      some or all of these values. I believe these values are critical in my continuous development as a software developer and to succeed and establish a growing and impactful career.
     
 
 ### Part 3: SMART Career Goals
@@ -123,24 +128,24 @@
       - Create a professional and up to date Linkedin profile.
       - Connect with other professionals on Linkedin and other social media platforms to extend my network.
       - Register on recruitment agency websites and subscribe to job alerts.
-      - Stay up to date with the latest technologies and trends.
+      - Stay up to date with the latest technologies, updates and trends.
     
 2. **Preparation for Long-term Goals**:
    
-    (a) AWS Developer Associate certification
+    (a) AWS Developer Associate Certification
     - Obtain the AWS Cloud Practitioner certificate and pass the examination well.
     - Excel in my junior development role and hone my technical skills.
     - Register for a course that will help me prepare for the examination.
     - Actively look for a development role that will help me get the necessary skills and experience of working with AWS infrastrucrure and technologies.
   
-    (b) Senior software developer role
+    (b) Senior Software Developer Role
     - Obtain the AWS Developer certificate and pass the examination well.
     - Ensure that I go above and beyond in my mid-level development role and meet and exceed my performance goals and objectives.
     - Continuously learn and adapt to changing technological trends.
     - Continuously hone my AWS skills and knowledge.
     - Improve and work on my soft skills especially my leadership skills.
 
-    (c) AWS DevOps Professional certification
+    (c) AWS DevOps Professional Certification
     - Obtain the AWS Developer certificate and pass the examination well.
     - Excel in my senior development role and hone my AWS technical skills.
     - Register for a course that will help me prepare for the examination.  
@@ -150,24 +155,25 @@
 
 1. **Anticipated Challenges**:
     
-   Identify potential obstacles or challenges in reaching your goals.
+   Potential obstacles or challenges in reaching my goals:
    - Loadshedding may affect my CodeSpace studies negatively as all learning takes place online. I can make use of a UPS and or mobile data to ensure a continuous online presence.
    - Information overload and burnout may negatively affect my CodeSpace grades. I can make use of effective time management, organisation of work and enough rest to avoid burnout.
    - The South African job marketplace has proven to be a tough place to obtain employment with high levels of
       unemployment and an economy that has not been performing well for quite some time. This may be a huge obstacle in obtaining a junior role. I can widen my job search and look for international
      remote job opportunities. Alternatively, I can consider freelancing as a means of obtaining some work experience as well as an income while waiting for the right opportunity.
-   - Preparing for the AWS Cloud practitioner certificate may be a challenge if I end up obtaining a demanding role. I can make use of effective time management, organisation and put in extra hours to prepare
+   - Preparing for the AWS Cloud practitioner certificate may be a challenge if I end up obtaining a demanding role. I can make use of effective time management and put in extra hours to prepare
      for the examination.
     
-3. **Opportunities for Growth**:
+2. **Opportunities for Growth**:
     
      Opportunities I can leverage for career growth.
     - I can make use of online networking platforms such as Linkedin to connect to other developers.
-    - I can actively collaborate with other developers and contribute to open source projects.
-    - I can work on more personal projects to further develop my technical skills.
+    - I can actively collaborate with other developers and work on projects or contribute to open source projects.
+    - I can challenge myself by working on more personal projects to further develop my technical skills.
     - I can connnect with a more experienced individual and get some form of mentorship.
     - I can register for short online courses that will help me acquire more knowledge and expand my skillset on platforms like Udemy.
-    - I can make use of my Scrimba membership and take advanced courses on frameworks like React and Bootstrap.   
+    - I can make use of my Scrimba membership and take advanced courses on frameworks like React and Bootstrap.
+    - I can stay up to date with the latest trends and updates by reading articles and following relevant blogs. 
 
 
 
