@@ -4,7 +4,7 @@
 ### Personal Information
 
 - **Name:** Tebogo Mosiane
-- **Date:** 03-03-2024
+- **Date:** 04-03-2024
 - **Current Role/Position:** CodeSpace Student
 - **Field of Interest:** Software Development
 
@@ -17,21 +17,33 @@
    - Vanilla CSS
    - Tailwind CSS
    - JavaScript
-   Skills I need to improve or develop are:
+   - GitHub<br><br>
+   Skills I need to improve or develop are:<br>
    - JavaScript
-   - React
-   - API development
+   - React.js
+   - Restful API development
    - Bootstrap
+   - Next.js
+   - Node.js
+   - Agile software development
     
 2. **Interests and Values**:
     
-      Key interests related to my career.
-       - 
+      Key interests related to my career.<br>
+      - Web Development
+      - Mobile App Development
+      - Machine Learning
+      - Cloud Computing
       
       Values that are important to me in a work environment are:
       - Honesty
       - Integrity
       - Professionalism
+      - Innovation
+      - Collaboration and Teamwork
+      - Work-life balance
+      - Continous learning and development
+      - Career growth opportunities
         
       
 
@@ -40,21 +52,30 @@
 1. **Industries and Roles Explored**:
     
      Industries or roles I have researched.
-      -  
-    - Note any particular areas that piqued your interest.
+     - E-commerce industry
+     - Business services industry
+     - Software providers industry
+     - Front-end developer
+     - Back-end developer
+     - Full-stack developer
+     - Software engineer
+    
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+      As an aspiring software developer, these roles and industries are perfectly aligned with my skills and knowledge and can provide a stepping stone to establishing a solid career in the tech industry.
+      Some of the roles researched promise to be in alignment with my values such as innovation and a good work-life balance. It is imperative for me to join an organisation that appreciates and promotes
+      some or all of these values. I believe these values are critical in my continous development as a software developer and to succeed and establish a growing and impactful career.
+    
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
      List your specific, measurable, achievable, relevant, and time-bound goals.
-     - Successfully complete the CodeSpace software development bootcamp in the next 4 months. This is to enable me to enter the tech industry and look for employment as a junior software developer.
-     - Obtain a junior software developer role 3 months after graduating from CodeSpace. I would like to obtain a position where I can make use of my newly acquired skills to kickstart my career.
-     - Obtain the AWS Cloud practitioner certificate 6 months after landing my junior developer role. 
+     - Successfully complete the CodeSpace software development bootcamp by getting more than 80% in all three programs in the next 4 months. This is to enable me to break into the tech industry and acquire a junior software developer role.
+     - Obtain a junior front-end developer role 3 months after graduating from CodeSpace. I would like to obtain a position where I can make use of my newly acquired skills to kickstart my career.
+     - Obtain the AWS Cloud practitioner certificate 6 months after landing my junior developer role. This is to help me attain knowledge about how the cloud works and to further improve my skills and marketability.
      Explain the rationale behind each goal.
 2. **Long-term Goals** (3-5 years and beyond):
     
