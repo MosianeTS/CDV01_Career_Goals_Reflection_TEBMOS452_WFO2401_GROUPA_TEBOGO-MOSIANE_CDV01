@@ -63,7 +63,6 @@
     
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
       As an aspiring software developer, these roles and industries are perfectly aligned with my skills and knowledge and can provide a stepping stone to establishing a solid career in the tech industry.
       Some of the roles researched promise to be in alignment with my values such as innovation and a good work-life balance. It is imperative for me to join an organisation that appreciates and promotes
       some or all of these values. I believe these values are critical in my continous development as a software developer and to succeed and establish a growing and impactful career.
@@ -76,7 +75,7 @@
      - Successfully complete the CodeSpace software development bootcamp by getting more than 80% in all three programs by June 2024. This is to enable me to break into the tech industry and acquire a junior software developer role.
      - Obtain a junior front-end developer role by end of September 2024. I would like to obtain a position where I can make use of my newly acquired skills to kickstart my development career.
      - Obtain the AWS Cloud Practitioner certificate by end of June 2025. This is to help me attain knowledge about how the cloud works and to kickstart my specialisation in cloud computing.
-     - Obtain a mid-level developer position by end of July 2026. Having gained experience as a junior developer, this role will allow me to take on more responsibility and to specialize in a specific programming language or specific technology.
+     - Obtain a mid-level developer position by end of November 2026. Having gained experience as a junior developer, this role will allow me to take on more responsibility and to specialize in a specific programming language or specific technology.
        
 2. **Long-term Goals** (3-5 years and beyond):    
    
@@ -151,19 +150,24 @@
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
-2. **Opportunities for Growth**:
+   Identify potential obstacles or challenges in reaching your goals.
+   - Loadshedding may affect my CodeSpace studies negatively as all learning takes place online. I can make use of a UPS and or mobile data to ensure a continuous online presence.
+   - Information overload and burnout may negatively affect my CodeSpace grades. I can make use of effective time management, organisation of work and enough rest to avoid burnout.
+   - The South African job marketplace has proven to be a tough place to obtain employment with high levels of
+      unemployment and an economy that has not been performing well for quite some time. This may be a huge obstacle in obtaining a junior role. I can widen my job search and look for international
+     remote job opportunities. Alternatively, I can consider freelancing as a means of obtaining some work experience as well as an income while waiting for the right opportunity.
+   - Preparing for the AWS Cloud practitioner certificate may be a challenge if I end up obtaining a demanding role. I can make use of effective time management, organisation and put in extra hours to prepare
+     for the examination.
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+3. **Opportunities for Growth**:
+    
+     Opportunities I can leverage for career growth.
+    - I can make use of online networking platforms such as Linkedin to connect to other developers.
+    - I can actively collaborate with other developers and contribute to open source projects.
+    - I can work on more personal projects to further develop my technical skills.
+    - I can connnect with a more experienced individual and get some form of mentorship.
+    - I can register for short online courses that will help me acquire more knowledge and expand my skillset on platforms like Udemy.
+    - I can make use of my Scrimba membership and take advanced courses on frameworks like React and Bootstrap.   
 
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
