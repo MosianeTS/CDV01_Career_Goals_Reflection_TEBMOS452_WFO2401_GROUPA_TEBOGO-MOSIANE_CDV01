@@ -78,6 +78,7 @@
 1. **Short-term Goals** (Next 1-2 years):    
      
      - Successfully complete the CodeSpace software development bootcamp by getting more than 80% in all three programs by June 2024. This is to enable me to break into the tech industry and acquire a junior software developer role.
+     - Learn a back-end development framework such as Django or Ruby on Rails by completing at least 1 short course online by the end of November 2024. This is to expand my skill-set and improve my marketability as a software developer.
      - Obtain a junior front-end developer role by end of September 2024. I would like to obtain a position where I can make use of my newly acquired skills to kickstart my development career.
      - Obtain the AWS Cloud Practitioner certificate by end of June 2025. This is to help me attain knowledge about how the cloud works and to kickstart my specialisation in cloud computing.
      - Obtain a mid-level developer position by end of November 2026. Having gained experience as a junior developer, this role will allow me to take on more responsibility and to specialize in a specific programming language or specific technology.
@@ -100,8 +101,14 @@
       - Continuously work on my technical skills by solving coding challenges online and practising best coding practices.
       - Continuously work on my CodeSpace qualities and improve on qualities such as teamwork and autodidacticism. 
       - Collaborate and interact with other fellow learners to help bridge any misunderstandings.
+  
+      (b) Learn a back-end framework
+      - Choose a back-end framework to learn and start learning the basics online by myself with the use of resources such as Youtube and GitHub.
+      - Search for the best affordable courses on the chosen back-end framework and enroll.
+      - Create projects using the chosen framework to enhance my skills.
+      - Join a community associated with the back-end framework for additional support.
         
-      (b) Junior Software Developer Job
+      (c) Junior Software Developer Job
       - Update my portfolio profile site to showcase my skills and projects to potential employers.
       - Update my GitHub profile and ensure that it has all the necessary information such as my contact details, skills and pinned repositories.
       - Create a professional and up to date CV.
@@ -110,13 +117,13 @@
       - Connect with other developers on Linkedin and other online platforms to extend my network.
       - Register on recruitment agency websites and subscribe to job alerts.
         
-      (c) AWS Cloud Practitioner Certificate
+      (d) AWS Cloud Practitioner Certificate
       - Self-learn about the cloud from resources such as YouTube and ChatGPT prior to the examination.
       - Prepare for the examination thoroughly by going through practice questions.
       - Connect with individuals who have written and passed the exam to ask for guidance in preparing and passing the examination.
       - Register for a course on Udemy that will help me prepare for the exam.
             
-      (d) Mid-level Developer Job
+      (e) Mid-level Developer Job
       - Ensure that I excel in my junior role to improve my chances of landing a mid-level developer role.
       - Expand my skillset by learning back-end development technologies and frameworks.
       - Master JavaScript by registering for an online course in advanced JavaScript.
@@ -130,7 +137,7 @@
       - Register on recruitment agency websites and subscribe to job alerts.
       - Stay up to date with the latest technologies, updates and trends.
     
-2. **Preparation for Long-term Goals**:
+3. **Preparation for Long-term Goals**:
    
     (a) AWS Developer Associate Certification
     - Obtain the AWS Cloud Practitioner certificate and pass the examination well.
