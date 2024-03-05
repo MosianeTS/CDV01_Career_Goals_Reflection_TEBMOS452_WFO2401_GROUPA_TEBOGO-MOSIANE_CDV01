@@ -177,6 +177,7 @@
      Opportunities I can leverage for career growth.
     - I can make use of online networking platforms such as Linkedin to connect to other developers.
     - I can actively collaborate with other developers and work on projects or contribute to open source projects.
+    - I can attend tech events and workshops to network and search for opportunities.
     - I can challenge myself by working on more personal projects to further develop my technical skills.
     - I can connnect with a more experienced individual and get some form of mentorship.
     - I can register for short online courses that will help me acquire more knowledge and expand my skillset on platforms like Udemy.
